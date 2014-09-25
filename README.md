@@ -1,4 +1,4 @@
-setanta-service
+setanta-cws
 ===============
 
-Web Service for DMA and CMS integration
+Web Service for DAM and CMS integration
